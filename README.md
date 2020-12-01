@@ -7,3 +7,5 @@ Se crearon dos archivos, uno de Clientes con, por lo menos, 50 clientes ya carga
 Creando estos dos CRUD de clientes y consumos por cliente, recorrimos el archivo de consumos, y por cada consumo leido buscamos el cliente al cual le pertenece el mismo. Al tener estas dos variables (consumo, cliente), buscamos en el arbol el cliente, si el cliente no existe, creamos un nodo arbol, agregamos el dato cliente, inicializamos la lista y agregamos en ella el consumo.
 
 Todo el sistema fue codificado en C
+
+Integrantes del equipo: Mark Lacerenze - Mateo Opisso
